@@ -23,6 +23,22 @@ The following documents will show my writing skills. Writing-1 will show an assi
 
 [writing-2.pdf](https://github.com/ldpatterson24/ldpatterson24.github.io/files/7702389/writing-2.pdf)
 
+### Soft Skills
+The following documents will show my soft skills. Both of these assignments are from Object Oriented Technology. In the assignments, I read the book, gathered information in my own interpretation, and created a powerpoint/slides on it. 
+
+[softskills-1.pdf](https://github.com/ldpatterson24/ldpatterson24.github.io/files/7702451/softskills-1.pdf)
+
+[softskills-2.pdf](https://github.com/ldpatterson24/ldpatterson24.github.io/files/7702452/softskills-2.pdf)
+
+
+### Programming Skills 
+The following two assignments show my programming skills. One of the screenshots will show my very first piece of coding I ever did which was the "Hello World" Assignment with Java. The other will show a program I created in Object Oriented Technology where I created a Miles per calculator, which was one of the more difficult coding assignments I constructed. 
+
+![programming-1 (1)](https://user-images.githubusercontent.com/90175185/145784587-e93c2b69-cbf6-4495-8a22-27c9f1dc1798.png)
+
+![programming-2 (1)](https://user-images.githubusercontent.com/90175185/145784602-e13f0eb1-c67a-4002-8b3c-e32cfd0a34ec.jpg)
+
+
 
 
 
