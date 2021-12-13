@@ -10,6 +10,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Resume
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[LeDarius Patterson Resume (3).pdf](https://github.com/ldpatterson24/ldpatterson24.github.io/files/7702288/LeDarius.Patterson.Resume.3.pdf)
+
+
+Currently enrolled in University of Arkansas - Fayetteville, Front end development certification program. 
 
 ```markdown
 Syntax highlighted code block
