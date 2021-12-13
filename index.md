@@ -5,15 +5,15 @@ I’m an information science major at UALR, eager to continue to educate myself 
 
 Currently enrolled in University of Arkansas - Fayetteville, Front end development certification program. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ### Resume
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 [LeDarius Patterson Resume (3).pdf](https://github.com/ldpatterson24/ldpatterson24.github.io/files/7702288/LeDarius.Patterson.Resume.3.pdf)
 
+### Database Skills
+[database-1.pdf](https://github.com/ldpat[database-2.pdf](https://github.com/ldpatterson24/ldpatterson24.github.io/files/7702330/database-2.pdf)
+terson24/ldpatterson24.github.io/files/7702329/database-1.pdf)
 
-Currently enrolled in University of Arkansas - Fayetteville, Front end development certification program. 
+
 
 ```markdown
 Syntax highlighted code block
