@@ -16,6 +16,14 @@ The following documents are documents where I displayed my SQL Skills from cours
 [database-2 (1).pdf](https://github.com/ldpatterson24/ldpatterson24.github.io/files/7702346/database-2.1.pdf)
 
 
+### Writing Skills 
+The following documents will show my writing skills. Writing-1 will show an assignment I had where I discussed the pros and cons of social media. One of my favorite projects I did my tenure here at UALR. Writing-2 will show a Reservation System I had to create for coursework last semester. 
+
+[writing-1.pdf](https://github.com/ldpatterson24/ldpatterson24.github.io/files/7702388/writing-1.pdf)
+
+[writing-2.pdf](https://github.com/ldpatterson24/ldpatterson24.github.io/files/7702389/writing-2.pdf)
+
+
 
 
 ```markdown
