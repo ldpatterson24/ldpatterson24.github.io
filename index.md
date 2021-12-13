@@ -10,8 +10,11 @@ Currently enrolled in University of Arkansas - Fayetteville, Front end developme
 [LeDarius Patterson Resume (3).pdf](https://github.com/ldpatterson24/ldpatterson24.github.io/files/7702288/LeDarius.Patterson.Resume.3.pdf)
 
 ### Database Skills
-[database-1.pdf](https://github.com/ldpat[database-2.pdf](https://github.com/ldpatterson24/ldpatterson24.github.io/files/7702330/database-2.pdf)
-terson24/ldpatterson24.github.io/files/7702329/database-1.pdf)
+The following documents are documents where I displayed my SQL Skills from coursework last semester.
+[database-1 (1).pdf](https://github.com/ldpatterson24/ldpatterson24.github.io/files/7702343/database-1.1.pdf)
+
+[database-2 (1).pdf](https://github.com/ldpatterson24/ldpatterson24.github.io/files/7702346/database-2.1.pdf)
+
 
 
 
