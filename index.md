@@ -1,4 +1,7 @@
 ## Welcome to LeDarius' Pages
+
+![IMG_7681 (1)](https://user-images.githubusercontent.com/90175185/145790263-b4990b01-5e76-47e3-aa68-080b08d7a5c5.jpg)
+
 My Elevator Pitch is as following
 
 I’m an information science major at UALR, eager to continue to educate myself in the field. Currently slated to graduate in May 2022 and would prefer Front End Development positions. I always wanted to be involved with technology and design, so I feel like Front End Development would be a great field for me to fulfill my purpose. 
@@ -31,6 +34,7 @@ The following documents will show my soft skills. Both of these assignments are 
 [softskills-2.pdf](https://github.com/ldpatterson24/ldpatterson24.github.io/files/7702452/softskills-2.pdf)
 
 
+
 ### Programming Skills 
 The following two assignments show my programming skills. One of the screenshots will show my very first piece of coding I ever did which was the "Hello World" Assignment with Java. The other will show a program I created in Object Oriented Technology where I created a Miles per calculator, which was one of the more difficult coding assignments I constructed. 
 
@@ -39,35 +43,16 @@ The following two assignments show my programming skills. One of the screenshots
 ![programming-2 (1)](https://user-images.githubusercontent.com/90175185/145784602-e13f0eb1-c67a-4002-8b3c-e32cfd0a34ec.jpg)
 
 
+### Project Charter 
+
+[Project Charter.pdf](https://github.com/ldpatterson24/ldpatterson24.github.io/files/7702703/Project.Charter.pdf)
+
+### Analysis and Design Report 
+
+[_Analysis and Design Report.pdf](https://github.com/ldpatterson24/ldpatterson24.github.io/files/7702730/_Analysis.and.Design.Report.pdf)
 
 
+### Capstone Reflection 
 
-```markdown
-Syntax highlighted code block
+[Capstone Reflection (2).pdf](https://github.com/ldpatterson24/ldpatterson24.github.io/files/7702740/Capstone.Reflection.2.pdf)
 
-# [LeDarius Patterson Resume (3).pdf](https://github.com/ldpatterson24/ldpatterson24.github.io/files/7702249/LeDarius.Patterson.Resume.3.pdf)
-
-
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ldpatterson24/ldpatterson24.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
